@@ -1,0 +1,17 @@
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\adminbengkel.exe.config
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\adminbengkel.exe
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\adminbengkel.pdb
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\MySql.Data.dll
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.Form1.resources
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.Properties.Resources.resources
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.csproj.GenerateResource.Cache
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.exe
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.pdb
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\MetroFramework.dll
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\MetroFramework.Fonts.dll
+G:\finalproject\adminbengkel\adminbengkel\bin\Debug\MetroFramework.Design.dll
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.koneksi.menuadmin.resources
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.jenis_servis.add_jenis_servis.resources
+G:\finalproject\adminbengkel\adminbengkel\obj\Debug\adminbengkel.csprojResolveAssemblyReference.cache
